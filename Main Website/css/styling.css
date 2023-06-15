@@ -1,0 +1,19 @@
+.bg-ungu{
+    background-image: linear-gradient(90deg, #9b59b6, #e91e63) !important;
+}
+
+nav{
+height: 10vh;
+}
+
+header{
+    height: 90vh;
+}
+
+footer{
+    height:10vh;
+}
+
+body{
+    height: 100vh;
+}
